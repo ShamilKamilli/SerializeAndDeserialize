@@ -1,0 +1,5 @@
+C:\Users\Shamil\source\repos\SerializeDeserialize\SerializeAndDeserialize\bin\Debug\SerializeAndDeserialize.dll
+C:\Users\Shamil\source\repos\SerializeDeserialize\SerializeAndDeserialize\bin\Debug\SerializeAndDeserialize.pdb
+C:\Users\Shamil\source\repos\SerializeDeserialize\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\source\repos\SerializeDeserialize\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.dll
+C:\Users\Shamil\source\repos\SerializeDeserialize\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.pdb
